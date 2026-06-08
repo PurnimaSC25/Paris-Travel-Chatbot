@@ -2,7 +2,7 @@
 AI-powered Paris travel guide chatbot built with OpenAI API: multi-turn conversation, guardrails, and deterministic responses.
 
 # Project Objective
-To build a a context-aware AI travel chatbot using the OpenAI API that answers Parisian tourist questions through multi-turn conversation, system-level guardrails, and deterministic response control.
+To build a context-aware AI travel chatbot using the OpenAI API that answers Parisian tourist questions through multi-turn conversation, system-level guardrails, and deterministic response control.
 
 # Tools & Technologies Used
 Language: Python       

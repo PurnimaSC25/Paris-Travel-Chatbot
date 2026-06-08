@@ -5,8 +5,8 @@ AI-powered Paris travel guide chatbot built with OpenAI API: multi-turn conversa
 To build a a context-aware AI travel chatbot using the OpenAI API that answers Parisian tourist questions through multi-turn conversation, system-level guardrails, and deterministic response control.
 
 # Tools & Technologies Used
-Language: Python 
-Libraries: OpenAI
+Language: Python       
+Libraries: OpenAI        
 Environment: DataCamp DataLab
 
 # Key Insights
